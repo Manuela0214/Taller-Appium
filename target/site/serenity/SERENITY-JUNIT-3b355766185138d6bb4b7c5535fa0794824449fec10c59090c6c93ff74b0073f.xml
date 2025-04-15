@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="3" failures="0" name="Contact validation in mobile app" skipped="0" tests="3" time="47.78" timestamp="2025-04-15 04:16:39"><testcase name="Create new contact"><error message="Failed to start the mobile app" type="java.lang.RuntimeException">Failed to start the mobile app</error><system-err>Failed to start the mobile app&#13;
+hook.OpenMobileApp.performAs(OpenMobileApp.java:47)&#13;
+stepdefinitions.ContactValidationStep.aUserIsOnTheMainScreenOfTheApplication(ContactValidationStep.java:25)&#13;
+✽.A user is on the main screen of the application(classpath:features/ContactValidation.feature:11)&#13;
+</system-err></testcase><testcase name=""><error message="Failed to start the mobile app" type="java.lang.RuntimeException">Failed to start the mobile app</error><system-err>Failed to start the mobile app&#13;
+hook.OpenMobileApp.performAs(OpenMobileApp.java:47)&#13;
+stepdefinitions.ContactValidationStep.aUserIsOnTheMainScreenOfTheApplication(ContactValidationStep.java:25)&#13;
+✽.A user is on the main screen of the application(classpath:features/ContactValidation.feature:19)&#13;
+</system-err></testcase><testcase name="Delete an existing contact"><error message="Failed to start the mobile app" type="java.lang.RuntimeException">Failed to start the mobile app</error><system-err>Failed to start the mobile app&#13;
+hook.OpenMobileApp.performAs(OpenMobileApp.java:47)&#13;
+stepdefinitions.ContactValidationStep.aUserIsOnTheMainScreenOfTheApplication(ContactValidationStep.java:25)&#13;
+✽.A user is on the main screen of the application(classpath:features/ContactValidation.feature:27)&#13;
+</system-err></testcase></testsuite>
